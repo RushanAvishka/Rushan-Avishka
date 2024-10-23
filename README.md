@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushan-avishka" alt="rushan-avishka" /></a> </p>
 
-- 🌱 I’m currently learning **UI/UX Design,Intractive Media,Project Coordinate and Web Development**
-
-- 👯 I’m looking to collaborate on **Drive Hive Vehicle**
-
-- 💬 Ask me about **03rd Year 02nd Semester Information Technology Student Undergraduate @sliit. I love to explore new technology world.**
+- 🌱 I’m currently learning **UI/UX Design, Interactive Media, Project Coordinate and Web Development**
 
 - 📫 How to reach me **rushanavishka4@gmail.com**
 
